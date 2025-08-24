@@ -23,6 +23,7 @@ https://github.com/wf021325/ipatool.js
 安装模块
 
 npm i
+
 win编辑main.js 然后运行批处理即可
 或者运行以下命令(win/mac/linux)
 
