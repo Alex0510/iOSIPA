@@ -22,10 +22,10 @@ async function main() {
     const config = {
         path: './app',
         APPID: '6446335251', // 使用您要购买的应用ID
-        appVerId: '866242995',
-        APPLE_ID: 'liuliwei0510@gmail.com',
-        PASSWORD: 'Xiaobao0601?',
-        CODE: '331192'
+        appVerId: '', //为空下载最新版，输入ID则下载对应版本
+        APPLE_ID: 'Eric@gmail.com', //appID账号
+        PASSWORD: '12345678', //ID密码
+        CODE: '' //二次验证码
     };
 
     try {
