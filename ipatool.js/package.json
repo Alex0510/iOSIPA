@@ -1,0 +1,22 @@
+{
+  "name": "ipatool.ts",
+  "version": "0.2.0",
+  "description": "Test in Node.js 20.15.1 environment",
+  "main": "main.js",
+  "type": "module",
+  "bin": {
+    "ipatool": "./main.js"
+  },
+  "scripts": {
+    "start": "node main.js",
+    "download": "node main.js",
+    "history": "node main.js history"
+  },
+  "dependencies": {
+    "fetch-cookie": "^3.0.1",
+    "getmac": "^6.6.0",
+    "jszip": "^3.10.1",
+    "node-fetch": "^3.3.2",
+    "plist": "^3.1.0"
+  }
+}
