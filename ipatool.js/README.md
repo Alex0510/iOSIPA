@@ -1,5 +1,4 @@
 # 代码参考来源灰佬源码
-https://github.com/beerpiss/ipatool.ts
 https://github.com/wf021325/ipatool.js
 
 
@@ -27,4 +26,5 @@ npm i
 node main.js //购买及下载
 node src/history.js 234567 //app软件ID
 ```
+
 
