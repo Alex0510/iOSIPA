@@ -27,7 +27,7 @@ npm i
 win编辑main.js 然后运行批处理即可
 或者运行以下命令(win/mac/linux)
 
-node main.js //购买及下载
+node main.js 软件id或url链接//购买及下载
 
-node src/history.js 234567 //app软件ID
+node src/history.js 234567 //app软件ID或url链接
 
