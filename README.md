@@ -6,7 +6,7 @@ https://github.com/wf021325/ipatool.js
 功能支持电脑及iOS手机--测试环境：windows iOS可使用python3ide Node.js 18.16.1
 
 
-该脚本用于 **查询 iOS 应用历史版本**、**搜索应用**、**自动购买并下载 IPA**。  
+该脚本用于 **查询 iOS 应用历史版本**、**搜索应用**、**自动购买并下载及下架软件 IPA**。  
 支持输入 AppID 或 iTunes/Apple Store 链接。  
 
 ---
